@@ -1,0 +1,2 @@
+# MyJammer
+Bloqueador de sinais
