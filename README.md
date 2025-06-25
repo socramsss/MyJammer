@@ -3,6 +3,8 @@
 Este projeto utiliza um ESP32 e dois módulos NRF24L01+ para interferir seletivamente em canais Bluetooth, Bluetooth BLE e Wi-Fi, explorando a sobreposição de frequências de 2.4GHz.
 
 > ⚠️ Este projeto é de caráter educacional e experimental, com código modularizado, bem estruturado e fácil de entender, pensado para estudantes e desenvolvedores. Muitos exemplos disponíveis na internet são confusos e/ou complicado a modificação. Aqui, o foco foi criar uma base clara e reutilizável para estudar interferência em canais de rádio 2.4GHz.
+
+
 > ⚠️ Atenção: A emissão deliberada de sinais interferentes pode ser ilegal em sua região. Este projeto não deve ser utilizado para bloqueio real de sinais sem autorização. Consulte as leis locais de telecomunicações antes de qualquer uso prático.
 
 ---
