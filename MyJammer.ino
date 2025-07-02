@@ -42,8 +42,6 @@ void loop()
 
 void SetChannel()
 {
-  int ch = modeRF24.GetChannel();
-
-  radio00->SetChannel(ch);
-  radio01->SetChannel(ch); 
+  radio00->SetChannel(modeRF24.GetChannel());
+  radio01->SetChannel(modeRF24.GetChannel()); 
 }
